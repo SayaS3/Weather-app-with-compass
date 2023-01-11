@@ -6,6 +6,3 @@ Things I have used (APIs) for making this app:
       
           # Current Weather Data
           # 5 days / 3 hours Forecast
-
-
- 
