@@ -1,7 +1,6 @@
 package com.studioartagonist.weather.network
 
 import android.annotation.SuppressLint
-import android.content.ComponentCallbacks
 import android.content.Context
 import android.location.Location
 import android.util.Log
@@ -17,7 +16,7 @@ import java.util.*
 
 //Laczenie sie z API
 
-const val weather_api_key = "67f5fec919fed313ea9f6d0c44164bb7"
+const val weather_api_key = ""
 const val base_url = "https://api.openweathermap.org/data/2.5/"
 const val icon_prefix = "https://openweathermap.org/img/wn/"
 const val icon_suffix = "@2x.png"
